@@ -22,10 +22,10 @@ To create a `Pizza` object, use the `PizzaBuilder` class to set the desired topp
 
 ```
 Pizza pizza = new PizzaBuilder()
-.setSize(10)
-.setCheese(true)
-.setChicken(true)
-.build();
+	.setSize(10)
+	.setCheese(true)
+	.setChicken(true)
+	.build();
 ```
 
 ## How the Builder Pattern is Used and Why is it Useful Here
@@ -39,8 +39,8 @@ Pizza pizza = new PizzaBuilder()
 	.setSize(10)
 	.setCheese(true)
 	.setChicken(false)
-  .setCapsicum(true)
-  .setOnion(true)
+  	.setCapsicum(true)
+  	.setOnion(true)
 	.build();
 ```
 I hope this helps!
