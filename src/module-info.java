@@ -1,0 +1,9 @@
+/**
+ *
+ */
+/**
+ * @author Gautam
+ *
+ */
+module myDesignPatterns {
+}
