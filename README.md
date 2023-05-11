@@ -44,4 +44,4 @@ Pizza pizza = new PizzaBuilder()
   	.setOnion(true)
 	.build();
 ```
-I hope this helps!
+I hope this helps to understanding the Builder design pattern
