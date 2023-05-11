@@ -25,6 +25,7 @@ Pizza pizza = new PizzaBuilder()
 	.setSize(10)
 	.setCheese(true)
 	.setChicken(true)
+	.setPizzaBase(PizzaBase.CHEESE_BURST)
 	.build();
 ```
 
