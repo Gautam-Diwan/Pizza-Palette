@@ -29,7 +29,7 @@ Pizza pizza = new PizzaBuilder()
 	.build();
 ```
 
-## How the Builder Pattern is Used and Why is it Useful Here
+## Application of Builder Design Pattern and its Benefits in the Project
 
 The Builder pattern is used in this project to simplify the creation of complex `Pizza` objects. Instead of having to specify all of the pizza's properties at once in a constructor, the Builder pattern allows you to set individual properties in any order using a fluent API. This makes the code more readable and maintainable, especially as more properties are added to the `Pizza` object.
 
